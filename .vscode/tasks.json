@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Eye-Control GUI",
+      "type": "shell",
+      "command": "${workspaceFolder}/eyeenv/Scripts/activate && python ${workspaceFolder}/main_gui.py",
+      "windows": {
+        "command": "${workspaceFolder}\\eyeenv\\Scripts\\activate && python ${workspaceFolder}\\main_gui.py"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

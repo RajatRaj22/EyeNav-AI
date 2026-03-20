@@ -1,0 +1,9 @@
+opencv-python
+cv2
+mediapipe==0.10.14
+tensorflow
+numpy
+pillow
+pyautogui
+pandas
+scikit-learn

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Eye-Control System",
+      "type": "",
+      "request": "launch",
+      "program": "${workspaceFolder}/main_gui.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
