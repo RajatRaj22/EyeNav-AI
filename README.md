@@ -57,7 +57,7 @@ System Control (Scroll, Type, Navigate)
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/eyenav-ai.git
+git clone https://github.com/yourusername/EyeNav-AI.git
 cd eyenav-ai
 pip install -r requirements.txt
 ```
@@ -74,7 +74,6 @@ python main.py
 
 ## 📸 Demo & Screenshots
 
-> *(Add your screenshots in assets folder and they will show here)*
 
 ```markdown
 ![Detection](assets/screenshots/detection.png)
